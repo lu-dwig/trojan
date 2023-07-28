@@ -1,5 +1,5 @@
 # trojan
-this is a folder containing a trojan payload .exe file used to gain access to a host "windows"
+this is a folder containing a trojan payload .exe file used to gain access to a host "windows operating system " as atarget host .
 
 
 ##how to use
